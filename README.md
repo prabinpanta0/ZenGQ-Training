@@ -57,7 +57,7 @@ To run the code locally, you'll need to install the following packages:
 pip install transformers accelerate datasets
 ```
 
-##Usage
+## Usage
 1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/ZenGQ-Training.git`
 2. Navigate to the project directory: `cd ZenGQ-Training`
 3. Run the Jupyter notebook: `jupyter notebook train_colab.ipynb`
